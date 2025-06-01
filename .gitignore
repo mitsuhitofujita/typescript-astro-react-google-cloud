@@ -3,3 +3,7 @@
 *.env
 # Ignore all credential files
 *credentials.json
+# Ignore pnpm store
+.pnpm-store
+# Ignore node_modules
+node_modules
